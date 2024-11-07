@@ -22,7 +22,7 @@
 
 ### 📫 **How to reach me...**
 - **Email**: saad.aziz@fantechlabs.io 📧
-- **LinkedIn**: [Saad Azi](www.linkedin.com/in/saadazi120) 🔗
+- **LinkedIn**: [Saad Aziz](www.linkedin.com/in/saadazi120) 🔗
 
 ### 😄 **Pronouns**: He/Him
 
