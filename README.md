@@ -27,7 +27,7 @@
 ### 😄 **Pronouns**: He/Him
 
 ### ⚡ **Fun fact**:
-- I once built a Python-powered robot that plays chess... and beats me every time! ♟️😅
+- I taught my AI to understand memes. Now it’s sending me memes at 2 AM telling me I should ‘get some sleep’. It's a vibe but ...😅
 
 ---
 
