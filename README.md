@@ -1,14 +1,14 @@
 # 👋 Hi, I’m [Saad-Aziz](https://github.com/Saad-Azi)
 
 🔧 **Software Engineer | AI Enthusiast | Cloud & DevOps Geek**  
-💻 Currently working at **Fantech Labs** 🚀 | Python | Django | FastAPI | Langchain | LangGraph | crewAI | Lamini | Docker | CI/CD | Cloud Functions | AI Solutions
+💻 Currently working as an **AI Engineer** 🚀 | Python | Django | FastAPI | Langchain | LangGraph | crewAI | Lamini | Docker | CI/CD | Cloud Functions | AI Solutions
 
 ---
 
 ### 🌟 **Open Source Contributions** 🌟
 [![Open Source Contribution](https://img.shields.io/badge/Open%20Source%20Contribution-GenAI%20Agents%20PR%20Merged-%234CAF50)](https://github.com/NirDiamant/GenAI_Agents/pull/22#event-15407928155)
 
-As an active participant in the **Agents Craft Hackathon**, I contributed to the **GenAI Agents repository** by adding the **Call Analyzer Agent**. This tool uses **LangChain** and **CrewAI** to transcribe and analyze sales calls, providing actionable insights to improve performance.
+As an active participant in the **Agents Craft Hackathon**, I contributed to the **GenAI Agents repository** (13.2k starts) by adding the **Call Analyzer Agent**. This tool uses **LangChain** and **CrewAI** to transcribe and analyze sales calls, providing actionable insights to improve performance. View it by clicking the badge above.
 
 ----
 ### 👀 **I’m interested in...**
