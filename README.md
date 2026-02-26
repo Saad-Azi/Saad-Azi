@@ -4,7 +4,7 @@
 
 ### GenAI Infrastructure Engineer | Building Production-Grade AI Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadazi120)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadaziz-ai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadaziz.2910@gmail.com)
 
 </div>
@@ -113,10 +113,6 @@ A 3-day competitive hackathon focused on building production-ready AI agents.
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad-Azi&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Azi&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saad-Azi&theme=github-dark-blue&hide_border=true)
 
