@@ -113,7 +113,7 @@ I specialise in **reflective agentic systems** that detect and recover from tool
 ## Open Source Contributions
 
 ### pydantic-ai — Core Bug Fix · Merged ✅
-[![pydantic-ai](https://img.shields.io/badge/pydantic--ai-8.5K+_Stars-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydantic/pydantic-ai/pull/4431)
+[![pydantic-ai](https://img.shields.io/badge/pydantic--ai-15.9K+_Stars-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydantic/pydantic-ai/pull/4431)
 
 **PR #4431** — Fixed a production crash across all model providers (Anthropic, Gemini, Google, Bedrock, Mistral, xAI) where malformed JSON in tool-call arguments caused an unrecoverable `ValueError` during the retry flow, preventing agents from self-correcting.
 
